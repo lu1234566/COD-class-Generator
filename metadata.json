@@ -1,0 +1,8 @@
+{
+  "name": "Gerador de Classes Call of Duty",
+  "description": "Gerador inteligente de classes para diversos títulos de Call of Duty, com suporte avançado para o sistema Pick 13 do Advanced Warfare.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
